@@ -1,39 +1,38 @@
 # Semester 6 | Academic Repository
 
-This repository serves as a centralized hub for my notes, practical implementations, and research during my 6th semester. It is organized to facilitate quick access to core concepts and lab work.
+This repository serves as a centralized hub for my notes, practical implementations, and research during my 6th semester. It is organized to facilitate quick access to core concepts, lab work, and cybersecurity research.
 
 ## 📂 Repository Structure
 
-The folders are categorized by subject as per the current curriculum:
+The folders are categorized by subject as follows:
 
-| Subject                             | Description                                                            |
-| :---------------------------------- | :--------------------------------------------------------------------- |
-| `Agile Software Development/`       | Methodologies, Scrum frameworks, and iterative delivery notes.         |
-| `Compiler Design/`                  | Lexical analysis, parsing techniques, and syntax-directed translation. |
-| `Data Warehousing and Data Mining/` | ETL processes, OLAP, and pattern discovery algorithms.                 |
-| `Design Thinking/`                  | User-centric problem-solving, prototyping, and ideation logs.          |
-| `Electronic waste management/`      | Sustainability practices and legal frameworks for e-disposal.          |
-| `Mobile and Web Security/`          | OWASP top 10, penetration testing, and secure coding practices.        |
+| Subject                        | Description                                                                       |
+| :----------------------------- | :-------------------------------------------------------------------------------- |
+| `Agile Software Development/`  | Notes on Scrum frameworks, iterative delivery, and agile methodologies.           |
+| `Compiler Design/`             | Lexical analysis, parsing techniques, and syntax-directed translation.            |
+| `Internet of Things (IoT)/`    | Sensors, actuators, microcontroller programming, and IoT communication protocols. |
+| `Design Thinking/`             | User-centric problem-solving, prototyping, and ideation logs.                     |
+| `Electronic waste management/` | Sustainability practices and legal frameworks for e-disposal.                     |
+| `Mobile and Web Security/`     | OWASP top 10, penetration testing, and secure coding practices.                   |
 
 ---
 
 ## 🛠️ Tech Stack & Environment
 
-Code and documentation in this repo are maintained using the following environment:
+Most code and documentation are maintained within a customized Linux environment:
 
-* **Operating System:** Omarchy
-* **Window Manager:** Hyprland
+* **OS:** Arch Linux
+* **Window Manager:** Hyprland / SwayFX
 * **Note Taking:** Obsidian (.md)
-* **Development:** Neovim 
 
---- 
+---
 
 ## 📝 Usage
 
 To use these notes locally:
-1. Clone the repository.
+1. Clone the repository: `git clone <repo-url>`
 2. Open the root folder in **Obsidian** to view linked notes and graphs.
-3. Ensure you do not track personal Obsidian settings (handled by `.gitignore`).
+3. Personal workspace settings are excluded via `.gitignore`.
 
 **Author:** Manas  
-**Current Status:** 3rd Year Student
+**Current Year:** 3rd Year College Student
