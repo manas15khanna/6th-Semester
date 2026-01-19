@@ -24,7 +24,22 @@
 	2. How to do it
 12. **Sprint Review**: A meeting at the end of the sprint to: 
 	1. Demonstrate completed work 
-	2. get feedback 
+	2. get feedback  
+13. **Sprint Retrospective**: A meeting to discuss: 
+	- what went well
+	- what didn't 
+	- how to improve
+14. **Increment**: The working version of a product after a sprint 
+15. **Burndown Chart**: A graph that shows: 
+	1. Work remaining vs Time 
+	2. Help track the sprint progress 
+16. **Velocity**: Measures how much work a team completes in one sprint 
+17. **DOD (Definition of Dull)**: A checklist that defines when a task if officially complete 
+18. **MVP (Minimum Viable Product)**: A smallest version of a product with enough features to satisfy early users 
+19. **Kanban Kaizen** 
+
+# Agile Software Development Process 
+
 # ASD 
 - Flexibility 
 - Collaboration 
