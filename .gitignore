@@ -1,0 +1,10 @@
+# Ignore Obsidian workspace and system files
+.obsidian/
+
+# Optional: If you want to keep your Obsidian themes/snippets but ignore workspace state
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+
+# Standard ignores
+.DS_Store
+*.tmp
