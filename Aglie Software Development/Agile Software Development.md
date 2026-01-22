@@ -62,48 +62,61 @@ ASD is a software development methodology that values flexibility, collaboration
 
 ```mermaid
 %%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#1a1a1a',
-      'primaryTextColor': '#ffffff',
-      'primaryBorderColor': '#444444',
-      'lineColor': '#888888',
-      'secondaryColor': '#2d2d2d',
-      'tertiaryColor': '#ffffff',
-      'mainBkg': '#1a1a1a',
-      'nodeBorder': '#444444',
-      'clusterBkg': 'transparent',
-      'clusterBorder': '#666666',
-      'defaultLinkColor': '#888888',
-      'titleColor': '#ffffff',
-      'edgeLabelBackground':'#2d2d2d',
-      'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'
-    }
-  }
+init: {
+'theme': 'base',
+'themeVariables': {
+'primaryColor': '#1e1e1e',
+'primaryTextColor': '#ffffff',
+'primaryBorderColor': '#444444',
+'lineColor': '#888888',
+'nodeBorder': '#444444',
+'mainBkg': '#1e1e1e',
+'defaultLinkColor': '#888888',
+'fontFamily': 'ui-monospace, monospace'
+}
+}
 }%%
-mindmap
-root(Agile Software Development)
-	(Requirement Gathering)
-	(Development)
-	(Deployment)
-	(Maintainence)
-	(Testing)
-	(Planning)
+graph LR
+%% Nodes
+Root[<b>Agile Software Development</b>]
+Req[Requirement Gathering]
+Plan[Planning]
+Dev[Development]
+Test[Testing]
+Dep[Deployment]
+Maint[Maintenance]
+%% Connections
+Root === Req
+Root === Plan
+Root === Dev
+Root === Test
+Root === Dep
+Root === Maint
+%% Individual Styling for the Root
+style Root fill:#333,stroke:#fff,stroke-width:2px
 ```
 ```mermaid
+%%{
+init: {
+'theme': 'base',
+'themeVariables': {
+'primaryColor': '#1e1e1e',
+'primaryTextColor': '#ffffff',
+'primaryBorderColor': '#444444',
+'lineColor': '#888888',
+'nodeBorder': '#444444',
+'mainBkg': '#1e1e1e',
+'defaultLinkColor': '#888888',
+'fontFamily': 'ui-monospace, monospace'
+}
+}
+}%%
 flowchart
-
 A[Meet] ==> B[Plan]
-
 B==> C[Design]
-
 C==> D[Develop]
-
 D==> E[Test]
-
 E==> F[Eval]
-
 F==>A
 ```
 
