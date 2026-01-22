@@ -59,15 +59,37 @@ ASD is a software development methodology that values flexibility, collaboration
 | Documentation        | Lightweight Documentation | Heavy Documentation               |
 | Risk                 | Low                       | High                              |
 # ASD Lifecycle and Process
+
 ```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#1a1a1a',
+      'primaryTextColor': '#ffffff',
+      'primaryBorderColor': '#444444',
+      'lineColor': '#888888',
+      'secondaryColor': '#2d2d2d',
+      'tertiaryColor': '#ffffff',
+      'mainBkg': '#1a1a1a',
+      'nodeBorder': '#444444',
+      'clusterBkg': 'transparent',
+      'clusterBorder': '#666666',
+      'defaultLinkColor': '#888888',
+      'titleColor': '#ffffff',
+      'edgeLabelBackground':'#2d2d2d',
+      'fontFamily': 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace'
+    }
+  }
+}%%
 mindmap
 root(Agile Software Development)
-	Requirement Gathering
-	Planning
-	Development
-	Deployment
-	Maintainence
-	Testing
+	(Requirement Gathering)
+	(Development)
+	(Deployment)
+	(Maintainence)
+	(Testing)
+	(Planning)
 ```
 ```mermaid
 flowchart
