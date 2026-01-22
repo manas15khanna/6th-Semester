@@ -72,17 +72,17 @@ root(Agile Software Development)
 ```mermaid
 flowchart
 
-A[Meet] --> B[Plan]
+A[Meet] ==> B[Plan]
 
-B--> C[Design]
+B==> C[Design]
 
-C--> D[Develop]
+C==> D[Develop]
 
-D--> E[Test]
+D==> E[Test]
 
-E--> F[Eval]
+E==> F[Eval]
 
-F-->A
+F==>A
 ```
 
 # Core Values of ASD 
