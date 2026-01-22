@@ -41,3 +41,13 @@
 | Optimizer                                                                         | Three-address code, quads, or RTL            |                                                |
 | Code generator                                                                    | Assembly Code                                |                                                |
 | Peephole optimizer                                                                | Assembly code                                |                                                |
+## Grouping of phases of compiler 
+### Compiler front and back ends:
+- Front end: Analysis(Machine Independent) The front end consists of those phases that depends primarily on the source language and are largely independent of the target machine. 
+- Normally, Lexical and Syntatic Analysis, symbol table, semantic analysis and Intermediate code. Some code optimization can also be found on the front end. 
+## Compiler Construction Tools 
+- Scanner Generators generate lexical analyzers based on regular expression 
+- parser generators 
+- Syntax Directed translation engines produce collections of routines that walk the parse tree, generating intermediate code 
+- Automatic code generators translate each operation of IR into machine language of target machine 
+- Data flow engines help in gathering the information how values are transmitted from One part of a program to each other part. 

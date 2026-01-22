@@ -58,4 +58,65 @@ ASD is a software development methodology that values flexibility, collaboration
 | Delivery             | Frequent Small Releases   | Final product at the end          |
 | Documentation        | Lightweight Documentation | Heavy Documentation               |
 | Risk                 | Low                       | High                              |
+# ASD Lifecycle and Process
+```mermaid
+mindmap
+root(Agile Software Development)
+	Requirement Gathering
+	Planning
+	Development
+	Deployment
+	Maintainence
+	Testing
+```
+```mermaid
+flowchart
 
+A[Meet] --> B[Plan]
+
+B--> C[Design]
+
+C--> D[Develop]
+
+D--> E[Test]
+
+E--> F[Eval]
+
+F-->A
+```
+
+# Core Values of ASD 
+1. Individuals and Interactions over processes and tools
+2. Working Software over comprehensive documentation
+3. Customer Collaboration over contract negotiation 
+4. Responding to change over following a plan 
+# 12 Principles of ASD 
+1. Customer Satisfaction
+2. Changing Requirements
+3. Frequent Delivery
+4. Promoting Collaboration
+5. Motivated Individuals
+6. Face to Face communication
+7. Maintain a constant pace
+8. Measure the progress
+9. Technical Excellence 
+10. Simplicity 
+11. Self Organized Teams
+12. Continuous Improvements
+# Advantages and Disadvantages of ASD
+## Advantages
+- Flexibility
+- Increased Communication
+- Improved quality 
+- More reliable 
+- Enhanced customer satisfaction 
+- Increased Team Motivation 
+- Continuous Alteration
+- People not process
+## Disadvantages
+- Documentation 
+- Risk of not finishing 
+- Team Dependency 
+- In case of large products, dealing with customers is difficult
+
+# LSD (Lean Software Development)

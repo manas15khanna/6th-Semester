@@ -18,3 +18,4 @@ Larger the attack surface, more is the risk
 | Session         |                           |                                           |                                 |
 | Presentation    |                           |                                           |                                 |
 | Application     |                           |                                           |                                 |
+![[Pasted image 20260121121732.png]]
