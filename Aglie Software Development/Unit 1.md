@@ -76,7 +76,7 @@ init: {
 }
 }
 }%%
-graph LR
+graph
 %% Nodes
 Root[<b>Agile Software Development</b>]
 Req[Requirement Gathering]
@@ -155,3 +155,53 @@ F==>A
 - In case of large products, dealing with customers is difficult
 
 # LSD (Lean Software Development)
+- LSD aims at optimizing efficiency and minimizing waste in the software development process 
+- Helpful at:
+	- Prevents Defects 
+	- Eliminate waste
+	- Fast Delivery
+	- Delay Decisions 
+## Seven Principles of LSD 
+1. Eliminate the waste 
+2. Fast Delivery 
+3. Amplify Learning 
+4. Builds Quality
+5. Respect Teamwork 
+6. Delay the commitment 
+7. Optimizing the whole system 
+## LSD Process 
+- Identify the Value 
+- Map the values tree 
+- Create Flow 
+- Establish Pull
+- Seek Perfection 
+- Build Quality 
+- Empower Team 
+## LSD vs Agile 
+
+| Feature               | LSD                                                                  | Agile                                                            |
+| --------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Focus                 | The focus is on waste elimination and optimization                   | Focus is on Customer Collaboration and Iterative Delivery        |
+| Process and Practices | Kanban & Kaizen                                                      | Scrum                                                            |
+| Feature               | Delay Decision until necessary                                       | Flexible and Adaptive to changes as they rise                    |
+| Customer Involvment   | It involves understanding and delivering customer value continuously | It involves continuous collaboration and feedback from customers |
+| Advantages            | Fast Delivery, Prevents Defects                                      | Flexibility, Customer Satisfaction                               |
+| Limitation            | It requires strong leadership, difficulty in measuring waste         |                                                                  |
+# Kaizen & Kanban
+- High quality software quickly
+- Reduce Waste 
+- High efficiency 
+ASD aims to deliver high quality software quickly while adapting to change and continuously improving. Two important Lean concepts that strongly support Agile:
+1. Kaizen 
+2. Kanban 
+Both help teams become more efficient, reduce waste and improve customer satisfaction but in different ways. 
+## Kaizen in ASD 
+It's a Japanese word that means 'change for the better' or continuous improvement. It emphasizes making small incremental improvements regularly rather than making large changes all at once.  
+### **Philosophy of Kaizen** 
+Kaisen is based on the philosophy that:
+1. No process is perfect 
+2. Everything can be improved 
+3. Improvement should never stop
+4. Everyone in the team contributes 
+5. Instead of waiting for problems to become big, teams solve small problems early preventing them from growing 
+# 

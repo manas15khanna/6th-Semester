@@ -51,3 +51,10 @@
 - Syntax Directed translation engines produce collections of routines that walk the parse tree, generating intermediate code 
 - Automatic code generators translate each operation of IR into machine language of target machine 
 - Data flow engines help in gathering the information how values are transmitted from One part of a program to each other part. 
+# Finite Automata 
+An automation with a finite number of states is called a **Finite Automation** (FA) of **Finite State Machine** (FSM)
+Components of a Finite Automata: 
+- **Input:** A string fed to a machine which the machine will determine whether it is part of the language or not. An input is read by the machine in a forward fashion, one symbol at a time. 
+- **Return:** The results of running the machine on a given input. Initially, this will either be accepted or rejected, indicating whether the input string is respectively part of the language or not. 
+- **State:** A resting place while the machine reads more input, if more input is available. States are typically named. State names must be unique. Graphically, states are represented by a circle with the name inside. 
+- **Start State:** It is the state that the machine naturally starts in before it reads any input. The name for the start state will usually either be $S$ or $q_0$. 

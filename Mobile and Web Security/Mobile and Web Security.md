@@ -18,4 +18,11 @@ Larger the attack surface, more is the risk
 | Session         |                           |                                           |                                 |
 | Presentation    |                           |                                           |                                 |
 | Application     |                           |                                           |                                 |
-![[Pasted image 20260121121732.png]]
+![[layers1.png]]
+![[layers2.png]]![[layers3.png]]
+# To be Covered
+1. Memory Overflow 
+2. Buffer Overflow 
+3. Difference between them 
+4. Common Programming Flaws 
+5. Top 10 OSAWP
