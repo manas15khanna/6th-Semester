@@ -42,3 +42,163 @@ During the third phase of the design thinking process, designers are ready to be
 The team of designers will now produce less expensive discounted version of the product or specific features found within the product, in order to be able to investigate solutions to the problems developed in the previous section. Prototype maybe shared and tested within the team itself or in other departments or in a small group of people outside the design team as and when required. This is the testing phase and the aim is to identify the best solution for each problem identified during the first three phases. Solutions to applied to prototypes and individually are investigated and adapted, developed and tested or rejected on the basis of user knowledge. By the end of this section, the design team will have a better idea of existing product and the problem and have a clear idea of how a real user will behave, think and feel about the product and services. 
 ## Testing/Assessment 
 Designers or testers formally test the complete product using the best solution identified during the simulation phase. This is the final phase of the 5 phase model but with a recurring process. The result produced during the testing phase are often used to redefine one or more problems and inform user's understanding uses condition and how people think and behave about the products and services. Even in this phase, changes and improvements are made to solve problems are gain as much insight into the product and it's users as possible. 
+# Software Development Methodology
+In the software business, the waterfall model and V-model are both highly popular development approaches. Both of these provide systematic assistance for the creation of software and applications. 
+## Waterfall Model 
+The waterfall model is a traditional software development methodology that follows a linear phase by phase approach where each phase must be completed before moving to the next phase. 
+It does not allow backtracking and permits only minimal changes once a phase is completed 
+```mermaid
+%%{
+
+init: {
+
+'theme': 'base',
+
+'themeVariables': {
+
+'primaryColor': '#1e1e1e',
+
+'primaryTextColor': '#ffffff',
+
+'primaryBorderColor': '#444444',
+
+'lineColor': '#888888',
+
+'nodeBorder': '#444444',
+
+'mainBkg': '#1e1e1e',
+
+'defaultLinkColor': '#888888',
+
+'fontFamily': 'ui-monospace, monospace'
+
+}
+
+}
+
+}%%
+
+flowchart TD
+
+A[Feasibility Study] ==> B[Requirement Analysis and Specification]
+
+B==>C[Design]
+
+C==>D[Coding and Unit Testing]
+
+D==>E[System Testing and Integration]
+
+E==>F[Maintainence]
+```
+### Features of Waterfall Model 
+1. Sequential Approach: Development follows a linear step by step process where each phase is completed before moving to the next. 
+2. Document Driven Process: Detailed documentation is created at every stage to clearly define requirements, design and progress. 
+3. Detailed Planning: The project scope scheduled and deliverable are carefully planned and monitored throughout the lifecycle.
+### Phases of Waterfall Model:
+1. Feasibility Study:
+	- The feasibility study contains technical and financial details of the project. 
+	- As per requirement, and client budget the study is performed. 
+2. Requirement analysis and specification 
+	- This phase focuses on clear understanding and documenting the customer needs. 
+	- Customer requirements are collected to and carefully examine to remove any errors, confusions and inconsistencies 
+	- The approved requirements are documented in the software requirement specification(SRS) which serves as a formal agreement between the customer and the development team. 
+3. Design 
+	- 
+## V-Model Graph 
+```mermaid
+%%{
+
+init: {
+'theme': 'base',
+'themeVariables': {
+'primaryColor': '#1e1e1e',
+'primaryTextColor': '#ffffff',
+'primaryBorderColor': '#444444',
+'lineColor': '#888888',
+'nodeBorder': '#444444',
+'mainBkg': '#1e1e1e',
+'defaultLinkColor': '#888888',
+'fontFamily': 'ui-monospace, monospace'
+}
+}
+}%%
+graph TD
+A1(Requirements Analysis)
+A2(System Design)
+A3(Architecture Design)
+A4(Module Design)
+%% Bottom: Coding
+Coding[Coding / Implementation]
+%% Right side: Validation Phases
+B1(Unit Testing)
+B2(Integration Testing)
+B3(System Testing)
+B4(Acceptance Testing)
+%% Connections
+A1 --> A2 --> A3 --> A4 --> Coding
+Coding --> B1 --> B2 --> B3 --> B4
+%% Cross-links (Traceability)
+A4 -->|Unit Test Design| B1
+A3 -->|Integration Test Design| B2
+A2 -->|System Test Design| B3
+A1 --> |Acceptance Test Design|B4
+```
+# Elements and Principles of Design 
+The elements and principles of design are fundamental concepts that guide the creation of visually appealing functional and cohesive design. Understanding and applying these elements and principles allow designers to effectively communicate message, create engaging visuals, and ensure that  there design are both aesthetically pleasing and funcional.
+## Elements of design 
+The elements of design are basic building blocks used to create a composition. They are 
+- Dot : 
+	- The most basic unit of design 
+	- A dot is a small mark or point in space. 
+	- When used strategically, dot can form patterns, lead the viewers eyes and create focal points. 
+- Line:
+	- A line is a continuous mark made by a moving point. 
+	- Lines can vary in thickness, direction, length, and styles. 
+	- Line can divide, create shape and suggest movement or direction. 
+- Shape:
+	- Shape refers to a 2D area created by lines or boundaries. shapes can be geometric (squares, circles, triangles) or organic (irregular or freeform) 
+	- Shapes define the structure of design and are the foundation for creating patterns, illustrations and other elements 
+- Form:
+	- Form is a 3D counterpart to shape. 
+	- It has depth in addition to height and width making it appear as if it has mass or volume. 
+	- Forms can be geometric (cubes, spheres) or organic (irregular or free-form) 
+- Color:
+	- Color plays a significant role in design, evoking emotions and setting the tone 
+	- It includes hue, the name of color, value (lightness / darkness) and saturation (intensity/purity)
+	- Colors can create contrast, highlight the elements and add depth to the design. 
+- Texture:
+	- Texture refers to the surface quality of an object. It can be visual (what we percieve) or tactile(what we feel physically) 
+	- Texture adds interest, dimension, and depth to a design and can be used to convey the feeling of a material.
+- Space: 
+	- Space refers to the area around, between and within element of a design 
+	- It can be positive (occupied by elements) or negative (empty space)
+	- The effective us of space helps create balance, clarity and focus in a design 
+	- Proper space management avoids overcrowding and creates harmony
+## Principles of Design 
+The principles of design refer to the rules and guidelines that help organize the element in a design. These principles ensure that design are well balanced, harmonious, and effective in conveying the intended message. Key principles include:
+- Balance 
+	- Balance refers to the distribution of visual weight in a design 
+	1. Symmetrical Balance 
+		- Elements are arranged evenly around a central point creating a formal and stable look 
+	2. Asymmetrical Balance 
+		- Elements are arranged unevenly creating a more dynamic and informal composition 
+	3. Radial Balance 
+		- Elements radiate outwards from a central point creating a circular or spiral effect 
+- Contrast 
+	- Contrast is the difference between two or more elements in a design 
+	- it involves differences in color, size, shape or texture. 
+	- Contrast helps create emphasis and add visual interest 
+	- For example: dark text on a light background is a contrast in value 
+- Emphasis 
+	- Emphasis is the focal point of a design where the eye is naturally drawn first 
+	- It is achieved by making certain elements stand out through contrast, size, shape, color, or positioning. 
+	- Emphasis ensures that the most important part of the design is noticed first  
+- Movement 
+
+# Case Studies:
+- [Design by Berkeley](https://guides.lib.berkeley.edu/design)
+- [Design by Vanseo Design](https://vanseodesign.com/web-design/design-elements/)
+- [Building Blocks of Visual Design by Interaction Design](https://www.interaction-design.org/literature/article/the-building-blocks-of-visual-design)
+
+# Redesign for Blind User 
+1. People face problem, 
