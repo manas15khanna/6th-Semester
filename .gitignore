@@ -8,3 +8,8 @@
 # Standard ignores
 .DS_Store
 *.tmp
+*.pdf
+*.pptx
+*.ppt 
+*.docx
+*.odt
