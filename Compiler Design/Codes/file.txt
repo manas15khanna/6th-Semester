@@ -1,0 +1,3553 @@
+<!DOCTYPE html>
+<!-- saved from url=(0067)https://www.hackerrank.com/test-v2/gac76oklml/questions/dffdig2lfej -->
+<html lang="en" style="">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>
+</title>
+<style>
+</style>
+<meta name="next-head-count" content="5">
+<link rel="preconnect" href="https://hrcdn.net/">
+<style id="stitches">
+</style>
+<link rel="shortcut icon" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/assets/images/favicon.ico">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="theme-color" content="#000000">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/b1dca2a5d44fc7a4-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/3eb4bb530f30483c-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/22539d17f3707926-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/17afee50ac86a1b9-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/12084922609e6532-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/media/e51fcc5397d024ec-s.p.woff2" as="font" type="font/woff2" crossorigin="anonymous" data-next-font="size-adjust">
+<script async="" crossorigin="anonymous" src="./HackerRank Question_files/fs.js">
+</script>
+<script id="fullstory-script" data-nscript="beforeInteractive">
+</script>
+<script id="newrelic-script" data-nscript="beforeInteractive">
+<n.length;t++){var r=n[t];if("*"===r.hostname)return!1;if(s(r.hostname,e.hostname)&&c(r.pathname,e.pathname))return!1}return!0}function o(e){return void 0===e.hostname}function a(e){if(n=[],e&&e.length)for(var t=0;t<e.length;t++){let r=e[t];if(!r)continue;0===r.indexOf("http://")?r=r.substring(7):0===r.indexOf("https://")&&(r=r.substring(8));const i=r.indexOf("/");let o,a;i>
+<e.length;++t)g(e[t],r);Object.entries(r).forEach((([e,t])=>
+<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(c.aborted&&!i)return;t&&o&&t.emit(e,r,n);var s=h(n);g(e).forEach((e=>
+<e;s++)a.push(o(r,i++).toString(16));return a.join("")}function c(){return s(16)}function u(){return s(32)}},2614:(e,t,r)=>
+<t.length;s++){const c=t[s],u=e[c];d(u)||(e[c]=r(u,a?c+n:n,i,c,o))}},r.flag=o,r;function r(t,r,n,s,c){return d(t)?t:(r||(r=""),nrWrapper[o]=t,function(e,t,r){if(Object.defineProperty&&Object.keys)try{return Object.keys(e).forEach((function(r){Object.defineProperty(t,r,{get:function(){return e[r]},set:function(t){return e[r]=t,t}})})),t}catch(e){u([e],r)}for(var n in e)a.call(e,n)&&(t[n]=e[n])}(t,nrWrapper,e),nrWrapper);function nrWrapper(){var o,a,d,l;let f;try{a=this,o=[...arguments],d="function"==typeof n?n(o,a):n||{}}catch(t){u([t,"",[o,a,s],d],e)}i(r+"start",[o,a,s],d,c);const h=performance.now();let p=h;try{return l=t.apply(a,o),p=performance.now(),l}catch(e){throw p=performance.now(),i(r+"err",[o,a,e],d,c),f=e,f}finally{const e=p-h,t={duration:e,isLongTask:e>
+<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={478:"sha512-SHSa/MoRsdpKsVJw/SkOeIpiSP9tn2ptnwUMtl4hYSDZQF7gqduy2X1ui9bws3PKSt4JHZLm5rAHUVHrqxUxSA==",249:"sha512-WqKmCXM77Um14j7xduX/jDJ+vVI2A/EkPn+pw2/wX7Wn4csMd5rgV2GYTKgeUgYxM7IoXjCzskZ8s+7IXoX0WA==",212:"sha512-8wJ3/cphcMIKQc22NiygKRE6n4qYxb3nJ5W5owFYljKB+hj7c5iXuhox6FOT1rOpPb18C7rA58r8WRk9t33pBQ=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var h=(t,n)=>
+<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.296.0.PROD"]=self["webpackChunk:NRBA-1.296.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>
+<d.length;e++)h(0,d[e]);d.length&&(d=[])}function b(e,t){return t}return r}var oe="fetch-",ae=oe+"body-",se=["arrayBuffer","blob","json","text","formData"],ce=y.gm.Request,ue=y.gm.Response,de="prototype";const le={};function fe(e){const t=function(e){return(e||ee.ee).get("fetch")}(e);if(!(ce&&ue&&y.gm.fetch))return t;if(le[t.debugId]++)return t;function r(e,r,n){var i=e[r];"function"==typeof i&&(e[r]=function(){var e,r=[...arguments],o={};t.emit(n+"before-start",[r],o),o[ee.P]&&o[ee.P].dt&&(e=o[ee.P].dt);var a=i.apply(this,r);return t.emit(n+"start",[r,e],a),a.then((function(e){return t.emit(n+"end",[null,e],a),e}),(function(e){throw t.emit(n+"end",[e],a),e}))})}return le[t.debugId]=1,se.forEach((e=>
+<r.allowed_origins.length;n++){var i=(0,he.D)(r.allowed_origins[n]);if(e.hostname===i.hostname&&e.protocol===i.protocol&&e.port===i.port){t=!0;break}}return t}excludeNewrelicHeader(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.exclude_newrelic_header}useNewrelicHeaderForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!1!==e.cors_use_newrelic_header}useTraceContextHeadersForCors(){var e=this.agentRef.init?.distributed_tracing;return!!e&&!!e.cors_use_tracecontext_headers}}var ge=i(9300),me=i(7295),ve=["load","error","abort","timeout"],be=ve.length,ye=(0,_.dV)().o.REQ,we=(0,_.dV)().o.XHR;const Re="X-NewRelic-App-Data";class xe extends T{static featureName=ge.T;constructor(e){super(e,ge.T),this.dt=new pe(e),this.handler=(e,t,r,n)=>
+<be;s++)r.addEventListener(ve[s],this.listener,(0,O.jT)(!1))}function l(e,t,r){this.cbTime+=e,t?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof r.onload||"function"!=typeof this.end||this.end(r)}function f(e,t){var r=""+Y(e)+!!t;this.xhrGuids&&!this.xhrGuids[r]&&(this.xhrGuids[r]=!0,this.totalCbs+=1)}function p(e,t){var r=""+Y(e)+!!t;this.xhrGuids&&this.xhrGuids[r]&&(delete this.xhrGuids[r],this.totalCbs-=1)}function g(){this.endTime=(0,c.t)()}function m(e,r){r instanceof we&&"load"===e[0]&&t.emit("xhr-load-added",[e[1],e[2]],r)}function v(e,r){r instanceof we&&"load"===e[0]&&t.emit("xhr-load-removed",[e[1],e[2]],r)}function b(e,t,r){t instanceof we&&("onload"===r&&(this.onload=!0),("load"===(e[0]&&e[0].type)||this.onload)&&(this.xhrCbStart=(0,c.t)()))}function w(e,r){this.xhrCbStart&&t.emit("xhr-cb-time",[(0,c.t)()-this.xhrCbStart,this.onload,r],r)}function R(e){var t,r=e[1]||{};if("string"==typeof e[0]?0===(t=e[0]).length&&y.RI&&(t=""+y.gm.location.href):e[0]&&e[0].url?t=e[0].url:y.gm?.URL&&e[0]&&e[0]instanceof URL?t=e[0].href:"function"==typeof e[0].toString&&(t=e[0].toString()),"string"==typeof t&&0!==t.length){t&&(this.parsedOrigin=(0,he.D)(t),this.sameOrigin=this.parsedOrigin.sameOrigin);var n=i.generateTracePayload(this.parsedOrigin);if(n&&(n.newrelicHeader||n.traceContextParentHeader))if(e[0]&&e[0].headers)s(e[0].headers,n)&&(this.dt=n);else{var o={};for(var a in r)o[a]=r[a];o.headers=new Headers(r.headers||{}),s(o.headers,n)&&(this.dt=n),e.length>
+<be;t++)e.removeEventListener(ve[t],this.listener,!1);t.aborted||(0,me.iW)(t)||(i.duration=(0,c.t)()-this.startTime,this.loadCaptureCalled||4!==e.readyState?null==t.status&&(t.status=0):E(this,e),i.cbTime=this.cbTime,r("xhr",[t,i,this.startTime,this.endTime,"xhr"],this,n.K7.ajax))}}function E(e,r){e.params.status=r.status;var i=function(e,t){var r=e.responseType;return"json"===r&&null!==t?t:"arraybuffer"===r||"blob"===r||"json"===r?J(e.response):"text"===r||""===r||void 0===r?J(e.responseText):void 0}(r,e.lastSize);if(i&&(e.metrics.rxSize=i),e.sameOrigin&&r.getAllResponseHeaders().indexOf(Re)>
+<0&&(0,l.R)(62,t),(0,s.p)(h.XG,[u.BL,{time:r}],void 0,n.K7.metrics,e.ee),e.addToTrace({name:u.BL,start:t,origin:"nr"}),(0,s.p)(u.Pl+u.hG,[r,u.BL],void 0,n.K7.genericEvents,e.ee)}),e)}const{He:Oe,bD:Ie,d3:Pe,Kp:je,TZ:ke,Lc:Ce,uP:Le,Rz:Me}=_e;class He extends T{static featureName=ke;constructor(e){var t;super(e,ke),t=e,p(u.U2,(function(e){if(!(e&&"object"==typeof e&&e.name&&e.start))return;const r={n:e.name,s:e.start-y.WN,e:(e.end||e.start)-y.WN,o:e.origin||"",t:"api"};r.s<0||r.e<0||r.e<r.s?(0,l.R)(61,{start:r.s,end:r.e}):(0,s.p)("bstApi",[r],void 0,n.K7.sessionTrace,t.ee)}),t),Ne(e);if(!(0,R.V)(e.init))return void this.deregisterDrain();const r=this.ee;let o;Se(r),this.eventsEE=(0,Q.u)(r),this.eventsEE.on(Le,(function(e,t){this.bstStart=(0,c.t)()})),this.eventsEE.on(Ce,(function(e,t){(0,s.p)("bst",[e[0],t,this.bstStart,(0,c.t)()],void 0,n.K7.sessionTrace,r)})),r.on(Me+Pe,(function(e){this.time=(0,c.t)(),this.startPath=location.pathname+location.hash})),r.on(Me+je,(function(e){(0,s.p)("bstHist",[location.pathname+location.hash,this.startPath,this.time],void 0,n.K7.sessionTrace,r)}));try{o=new PerformanceObserver((e=>
+<0))return(0,s.p)(u.Pl+u.V1,[f,t],void 0,n.K7.genericEvents,e.ee),f;(0,l.R)(58)}}),e)}(e),y.RI&&(e.init.user_actions.enabled&&(gt.Zp.forEach((e=>
+</script>
+<link rel="preload" href="./HackerRank Question_files/cee910fadaa677fc.css" as="style">
+<link rel="stylesheet" href="./HackerRank Question_files/cee910fadaa677fc.css" data-n-g="">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/css/f31c7c4c8b1e9b64.css" as="style">
+<link rel="preload" href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/css/38a12e9c8380c589.css" as="style">
+<noscript data-n-css="">
+</noscript>
+<style data-n-href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/css/f31c7c4c8b1e9b64.css">
+</style>
+<style data-n-href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/css/eba0e017b735fe27.css">
+</style>
+<style data-n-href="https://hrcdn.net/candidate-site-frontend-v2/_next/static/css/93f6d9717be150c4.css" media="x">
+</style>
+<script defer="" nomodule="" src="./HackerRank Question_files/polyfills-42372ed130431b0a.js">
+</script>
+<script src="./HackerRank Question_files/webpack-58ffe90cbdb7cd04.js" defer="">
+</script>
+<script src="./HackerRank Question_files/framework-3bc9684f49160ebb.js" defer="">
+</script>
+<script src="./HackerRank Question_files/main-016ea9c650b16f02.js" defer="">
+</script>
+<script src="./HackerRank Question_files/_app-15f7613368e1f6ea.js" defer="">
+</script>
+<script src="./HackerRank Question_files/a44e0c50-4160ddfdd08760e1.js" defer="">
+</script>
+<script src="./HackerRank Question_files/614dab02-600afd47fac6fc61.js" defer="">
+</script>
+<script src="./HackerRank Question_files/ff239f9d-e511738e9a2bf716.js" defer="">
+</script>
+<script src="./HackerRank Question_files/5675-d1a103d4ee79f6ea.js" defer="">
+</script>
+<script src="./HackerRank Question_files/7727-d5010119e185a9c5.js" defer="">
+</script>
+<script src="./HackerRank Question_files/2925-59c7854ac67a6966.js" defer="">
+</script>
+<script src="./HackerRank Question_files/3491-00411e7ec9bac53e.js" defer="">
+</script>
+<script src="./HackerRank Question_files/4431-709615ebfe406f33.js" defer="">
+</script>
+<script src="./HackerRank Question_files/3370-3bffe4d11fa2978b.js" defer="">
+</script>
+<script src="./HackerRank Question_files/5885-d2acbef84f20f5d1.js" defer="">
+</script>
+<script src="./HackerRank Question_files/login-40ed1255deed3f6f.js" defer="">
+</script>
+<script src="./HackerRank Question_files/_buildManifest.js" defer="">
+</script>
+<script src="./HackerRank Question_files/_ssgManifest.js" defer="">
+</script>
+<style type="text/css">
+</style>
+<meta name="csrf-token" content="CnxFeNCruzQAlhWB/XIBoVBaIi/RjaVM9etvKlJm+bzUTJ6M3P+k95DBXXVlE7oerxVGi8DT6teoiVg/bvsJlw==">
+<script async="" src="./HackerRank Question_files/integrations">
+</script>
+<style data-emotion="css" data-s="">
+</style>
+<link rel="stylesheet" type="text/css" href="./HackerRank Question_files/c63f1f65732d596e.css">
+<link rel="stylesheet" type="text/css" href="./HackerRank Question_files/fc437561a5b168c2.css">
+<link rel="stylesheet" type="text/css" href="./HackerRank Question_files/b1158fa7b37b8d71.css">
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style type="text/css">
+</style>
+<style>
+</style>
+<style type="text/css" media="screen">
+</style>
+<style type="text/css" media="screen" class="monaco-colors">
+</style>
+<style type="text/css" media="screen">
+</style>
+</head>
+<body data-theme="dark" data-theme-version="3" style="overflow-x: auto;" class="monaco-workbench linux web chromium enable-motion underline-links">
+<div id="__next">
+<div>
+<header class="Header_header__MwWvM hr-flex hr-row hr-align-center hr-justify-between hr-p-r-1 hr-p-l-0.75">
+<div class="Header_leftNev__eyaWD hr-flex hr-row hr-gap-0.75">
+<a href="https://www.hackerrank.com/test-v2/gac76oklml/questions">
+<img alt="Company Logo" loading="lazy" width="32" height="32" decoding="async" data-nimg="1" src="./HackerRank Question_files/413d3e9dcec07c313c21e78101f5a554" style="color: transparent; width: auto;">
+</a>
+<div class="Header_timerContainer__3ftY3">
+<span class="Header_timer__Hx3Ou hr-flex hr-justify-center hr-align-center" label="[object Object]" style="background-color: var(--hr-timer-bg-primary); color: var(--hr-timer-color-primary);">
+<div data-isdismissible="false" class="c-fgXRGR c-fgXRGR-gipWcE-color-default c-fgXRGR-kTWwkx-size-medium hr-inline-flex hr-align-center Header_timer__Hx3Ou hr-flex hr-justify-center" style="background-color: var(--hr-timer-bg-primary); color: var(--hr-timer-color-primary);">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-m-r-0.25">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+<path d="M21.25 12A9.25 9.25 0 0 1 12 21.25 9.25 9.25 0 0 1 2.75 12 9.25 9.25 0 0 1 12 2.75 9.25 9.25 0 0 1 21.25 12Z" stroke="currentColor" fill="none">
+</path>
+<path d="m15.431 14.943-3.77-2.25V7.848" stroke="currentColor" fill="none">
+</path>
+</g>
+</svg>
+<span>
+</span>
+</div>
+</span>
+</div>
+</div>
+<div class="hr-flex hr-col-gap-1 hr-p-y-0.5">
+<div class="Header_iconButtons__qCETi">
+<span class="Header_layoutPanelButtonContainer__3y10O">
+<button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r9f:" data-state="closed" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-QOCjp-size-medium c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5 Header_panelLayoutButton__iNs0Z hrdsOverrides_iconButtonGhost__g424y" data-hr-focus-item="private">
+<div class="c-idwzAS c-idwzAS-hyOwCo-gutter-left hr-flex">
+<svg width="1em" height="1em" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="PanelLayoutButton_layoutPanelIcon__wSy_l">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.448 16.75C4.64821 16.75 4 17.3982 4 18.198V18.802C4 19.6018 4.64821 20.25 5.448 20.25H8.052C8.85179 20.25 9.5 19.6018 9.5 18.802V18.198C9.5 17.3982 8.85179 16.75 8.052 16.75H5.448ZM2.5 18.198C2.5 16.5698 3.81979 15.25 5.448 15.25H8.052C9.68021 15.25 11 16.5698 11 18.198V18.802C11 20.4302 9.68021 21.75 8.052 21.75H5.448C3.81979 21.75 2.5 20.4302 2.5 18.802V18.198Z" fill="currentColor">
+</path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.448 3.75C4.64821 3.75 4 4.39821 4 5.198V9.802C4 10.6018 4.64821 11.25 5.448 11.25H8.052C8.85179 11.25 9.5 10.6018 9.5 9.802V5.198C9.5 4.39821 8.85179 3.75 8.052 3.75H5.448ZM2.5 5.198C2.5 3.56979 3.81979 2.25 5.448 2.25H8.052C9.68021 2.25 11 3.56979 11 5.198V9.802C11 11.4302 9.68021 12.75 8.052 12.75H5.448C3.81979 12.75 2.5 11.4302 2.5 9.802V5.198Z" fill="currentColor">
+</path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.448 3.75C15.6482 3.75 15 4.39821 15 5.198V18.802C15 19.6018 15.6482 20.25 16.448 20.25H19.052C19.8518 20.25 20.5 19.6018 20.5 18.802V5.198C20.5 4.39821 19.8518 3.75 19.052 3.75H16.448ZM13.5 5.198C13.5 3.56979 14.8198 2.25 16.448 2.25H19.052C20.6802 2.25 22 3.56979 22 5.198V18.802C22 20.4302 20.6802 21.75 19.052 21.75H16.448C14.8198 21.75 13.5 20.4302 13.5 18.802V5.198Z" fill="currentColor">
+</path>
+</svg>
+</div>
+</button>
+</span>
+<button aria-label="Switch to light theme" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-QOCjp-size-medium c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5 hrdsOverrides_iconButtonGhost__g424y" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 25 24" class="hr-icon" aria-hidden="true">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.5 3v1.372m0 15.256V21m9-9h-1.372M4.872 12H3.5m15.364-6.364-.97.97M7.106 17.394l-.97.97m12.728 0-.97-.97M7.106 6.606l-.97-.97" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12.5 7.805a4.195 4.195 0 1 1 0 8.39 4.195 4.195 0 0 1 0-8.39Z" clip-rule="evenodd" fill="none">
+</path>
+</svg>
+</button>
+<span style="margin-left: -8px;">
+<button type="button" id="radix-:r34:" aria-haspopup="menu" aria-expanded="false" data-state="closed" aria-label="Help menu" class="c-PJLV c-PJLV-enIeSp-hasDefaultStyle-true c-PJLV-Bmuyd-cv hr-flex hr-align-center hr-justify-center" data-hr-focus-item="">
+<button aria-label="Help" id="instruction-icon-header" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-QOCjp-size-medium c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5 hrdsOverrides_iconButtonGhost__g424y" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon" aria-hidden="true">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9ZM11.947 16.224v-.028" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M11.946 13.75c-.011-.892.799-1.27 1.401-1.613.735-.404 1.232-1.05 1.232-1.944a2.386 2.386 0 0 0-2.388-2.388 2.381 2.381 0 0 0-2.388 2.388" fill="none">
+</path>
+</svg>
+</button>
+</button>
+</span>
+</div>
+<button type="button" class="c-cUYkx c-cUYkx-dshqME-variant-primary c-cUYkx-QOCjp-size-medium hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5" data-hr-focus-item="private">
+<span>
+<span>
+</span>
+</span>
+</button>
+</div>
+</header>
+<div class="hr-flex hr-row">
+<div class="hr-shrink-0">
+<div class="hr-flex hr-col questionNavigationPanel_panelContainer__d1jHr" style="width: 64px;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 8px;">
+<div>
+<button type="button" class="c-cUYkx c-cUYkx-cddMLR-variant-secondary c-cUYkx-QOCjp-size-medium c-cUYkx-emTwVZ-isIconButton-true hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5" data-hr-focus-item="private">
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Expand/20px">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M2.5 3.25H17.5C18.1904 3.25 18.75 3.80964 18.75 4.5V14.5C18.75 15.1904 18.1904 15.75 17.5 15.75H2.5C1.80964 15.75 1.25 15.1904 1.25 14.5V4.5C1.25 3.80964 1.80964 3.25 2.5 3.25ZM17.5 2C18.8807 2 20 3.11929 20 4.5V14.5C20 15.8807 18.8807 17 17.5 17H2.5C1.11929 17 0 15.8807 0 14.5V4.5C0 3.11929 1.11929 2 2.5 2H17.5ZM5.62959 6.55806C5.40179 6.80214 5.40179 7.19786 5.62959 7.44194L6.96712 8.875H3.70874C3.38657 8.875 3.12541 9.15482 3.12541 9.5C3.12541 9.84518 3.38657 10.125 3.70874 10.125H6.96712L5.62959 11.5581C5.40179 11.8021 5.40179 12.1979 5.62959 12.4419C5.8574 12.686 6.22675 12.686 6.45455 12.4419L8.78789 9.94194C9.01569 9.69786 9.01569 9.30214 8.78789 9.05806L6.45455 6.55806C6.22675 6.31398 5.8574 6.31398 5.62959 6.55806ZM16.9318 4.5C17.2456 4.5 17.5 4.77982 17.5 5.125V13.875C17.5 14.2202 17.2456 14.5 16.9318 14.5H11.8182C11.5044 14.5 11.25 14.2202 11.25 13.875V5.125C11.25 4.77982 11.5044 4.5 11.8182 4.5H16.9318Z" fill="currentColor">
+</path>
+</g>
+</svg>
+</button>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; margin-top: 16px; overflow: auto;">
+<div class="QuestionSection_collapsedSection__YgR4M QuestionSection_theme__QexZG">
+<div class="QuestionSection_sectionHeader__H_lNS">
+</div>
+<div class="QuestionSection_collapsedQuestionList__Qkbvy">
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/ghe56jbhcb9" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/6lngjfnn5mf" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/b6rhp7p31s1" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/abfmkfdce1p" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/3hnpqigeadl" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/aa00s7g16ge" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/9i4j94a13j3" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_answered__2uUuq" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/8m6tilfs7qm" style="text-decoration: none;">
+<span class="QuestionSection_answeredCheckIcon__oRWRf">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M21 12a9 9 0 0 0-9-9 9 9 0 1 0 9 9Z" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.535 12 2.31 2.31 4.618-4.619" fill="none">
+</path>
+</svg>
+</span>
+<span class="QuestionSection_answeredQuestionIndex__6jn4E">
+</span>
+</a>
+<a class="QuestionSection_questionNumber__kZQTN QuestionSection_current__iSR7t" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/dffdig2lfej" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/83s8mggmrlf" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/2nc80c3rg83" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/fsk721s46s3" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/4f6qc6hfjb2" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/3emd03f0hif" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/c7r729afahg" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/bpln64hejd3" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/65ff83p2geq" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/d18jri5b2fm" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/cj2qmj6in04" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/2g8jpc86cef" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/7oo89rm6fb0" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/ghe56jd3mn3" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/f175l9loc6f" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/e2nj7le49rj" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/4inih9sqaji" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/3cle0d0doin" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/7l79ffe3nl" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/bae5lh3q5dq" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/a1prjqh603m" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/1reistt6ejc" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/10gopkbgolt" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/fr4dqj2p04h" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/81c2rntjea2" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/5k9mtt3r7o" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/b8dg5o8313l" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/as8ej31qcah" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/6jmi7q1r4eo" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/ot52j41b8n" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/94saq5plo9r" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/gdreekttn01" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/eftrkjsec53" style="text-decoration: none;">
+</a>
+<a class="QuestionSection_questionNumber__kZQTN" href="https://www.hackerrank.com/test-v2/gac76oklml/questions/efts8kldbis" style="text-decoration: none;">
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="question_container__QgqWx" style="flex-grow: 1; width: calc(100% - 64px); height: calc(-57px + 100vh);">
+<div class="QuestionLayout_layoutContainer__oMycv theme_theme__8ugDl">
+<aside class="hr-flex hr-row hr-shrink-0 Sidebar_container__DOyah">
+<div class="hr-flex hr-col hr-justify-between SidebarContent_container__ULZoE">
+<div role="tablist" aria-orientation="vertical" aria-label="Tabs">
+<button id="qaas-sidebar-tabs-trigger-question-details" aria-controls="qaas-sidebar-tabs-content-question-details" role="tab" aria-selected="true" aria-label="Question details" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-QOCjp-size-medium c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5 SidebarTabsTrigger_button__ivVqQ SidebarTabsTrigger_tab__1vIs_ SidebarTabsTrigger_isSelected__9h5jO" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5">
+<path d="M15.716 16.223h-7.22M15.716 12.037h-7.22M11.251 7.86H8.496M15.909 2.75l-7.69.004c-2.76.017-4.468 1.833-4.468 4.603v9.196c0 2.784 1.722 4.607 4.506 4.607l7.689-.003c2.76-.017 4.47-1.834 4.47-4.604V7.357c0-2.784-1.723-4.607-4.507-4.607Z" stroke="currentColor" fill="none">
+</path>
+</g>
+</svg>
+</button>
+</div>
+<div class="hr-flex hr-col hr-justify-center SidebarFooter_container__Jb42F">
+<span>
+<button type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="radix-:r9i:" data-state="closed" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-QOCjp-size-medium c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.5 SidebarTabsTrigger_button__ivVqQ" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<g fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" transform="translate(2.5 1.5)">
+<path d="m18.307 6.124-.623-1.08a1.913 1.913 0 0 0-2.608-.705h0a1.904 1.904 0 0 1-2.61-.678 1.83 1.83 0 0 1-.255-.915h0A1.913 1.913 0 0 0 10.297.778H9.043A1.904 1.904 0 0 0 7.14 2.691h0a1.913 1.913 0 0 1-1.913 1.886 1.83 1.83 0 0 1-.916-.257h0a1.913 1.913 0 0 0-2.608.705l-.669 1.099a1.913 1.913 0 0 0 .696 2.608h0a1.913 1.913 0 0 1 0 3.314h0a1.904 1.904 0 0 0-.696 2.6h0l.632 1.089a1.913 1.913 0 0 0 2.609.741h0a1.895 1.895 0 0 1 2.6.696c.164.277.252.593.255.915h0c0 1.057.857 1.913 1.913 1.913h1.254c1.053 0 1.908-.85 1.914-1.904h0a1.904 1.904 0 0 1 1.913-1.913c.321.009.636.097.915.256h0a1.913 1.913 0 0 0 2.609-.695h0l.659-1.099a1.904 1.904 0 0 0-.696-2.608h0a1.904 1.904 0 0 1-.696-2.61c.166-.289.406-.529.696-.695h0a1.913 1.913 0 0 0 .696-2.6h0v-.008Z" stroke="currentColor" fill="none">
+</path>
+<circle cx="9.675" cy="10.389" r="2.636">
+</circle>
+</g>
+</svg>
+</button>
+</span>
+</div>
+</div>
+</aside>
+<div data-qaas-settings-overlay-container="false" class="" data-panel-group="" data-panel-group-direction="horizontal" data-panel-group-id=":r9l:" style="display: flex; flex-direction: row; height: 100%; overflow: hidden; width: 100%; --qaas-panel-collapsible-content-min-width: 540px;">
+<div class="PanelLayout_collapsiblePanel__voH0C PanelLayout_collapsibleEffect__i2_DL" data-panel="" data-panel-collapsible="true" data-panel-group-id=":r9l:" data-panel-id=":r9m:" data-panel-size="30.0" style="flex: 30 1 0px; overflow: auto hidden;">
+<div role="tabpanel" aria-labelledby="qaas-sidebar-tabs-trigger-question-details" aria-hidden="false" id="qaas-sidebar-tabs-content-question-details" class="PanelLayout_sidebarTabsContent__opbev PanelLayout_sidebarTabsContentExpanded__aNIkz">
+<div class="QuestionDetails_container__AIu0X QuestionDetailsSidebarTab_container__cRCED">
+<h2 class="hr-m-0 hr-title-lg qaas-block-question-title qaas-disable-text-selection">
+<span class="Bookmark_iconWrapper__KdcZY">
+<button type="button" aria-label="Bookmark question 9" class="c-dRiJTD c-dRiJTD-iPJLV-css hr-p-0.25" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24" class="">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.227 6.586c0-2.562-1.75-3.586-4.27-3.586H9.04c-2.442 0-4.272.956-4.272 3.415v13.701a.882.882 0 0 0 1.315.771l5.943-3.331 5.887 3.325a.884.884 0 0 0 1.319-.77l-.005-13.525Z" clip-rule="evenodd" fill="none">
+</path>
+</svg>
+</button>
+</span>
+</h2>
+<div class="QuestionInstructions_container__Ymln1 qaas-block-question-instruction">
+<div class="RichTextPreview_richText__1vKu5 qaas-disable-text-selection RichTextPreview_themeDark__pWjJO RichTextPreview_withFixes__dJIDZ">
+<div>
+<h2 dir="auto" tabindex="-1">
+</h2>
+<p>
+</p>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<p dir="auto">
+<strong>
+</strong>
+<strong>
+</strong>
+</p>
+<p dir="auto">
+<strong>
+</strong>
+<strong>
+<code>
+</code>
+</strong>
+</p>
+<p dir="auto">
+</p>
+<h2 dir="auto" tabindex="-1">
+</h2>
+<p>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ul>
+<h2 dir="auto" tabindex="-1">
+</h2>
+<p>
+</p>
+<p dir="auto">
+</p>
+<pre>
+<code>
+</code>
+</pre>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<pre>
+<code>
+</code>
+</pre>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ul>
+<h2 dir="auto" tabindex="-1">
+</h2>
+<p>
+</p>
+<p dir="auto">
+</p>
+<ol dir="auto">
+<li>
+</li>
+<li>
+</li>
+<li>
+</li>
+</ol>
+<h2 dir="auto" tabindex="-1">
+</h2>
+<p>
+</p>
+<h3 dir="auto" tabindex="-1">
+</h3>
+<p>
+</p>
+<p dir="auto">
+</p>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<pre>
+<code>
+</code>
+</pre>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+<code>
+</code>
+</p>
+<ol dir="auto">
+<li>
+<strong>
+</strong>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<strong>
+</strong>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ol>
+<p dir="auto">
+<strong>
+</strong>
+<em>
+</em>
+</p>
+<h3 dir="auto" tabindex="-1">
+</h3>
+<p>
+</p>
+<p dir="auto">
+</p>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<pre>
+<code>
+</code>
+</pre>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+<li>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+<strong>
+</strong>
+</p>
+<ol dir="auto">
+<li>
+<strong>
+</strong>
+<strong>
+</strong>
+</li>
+<li>
+<strong>
+</strong>
+<strong>
+</strong>
+</li>
+</ol>
+<p dir="auto">
+</p>
+<ul dir="auto">
+<li>
+<strong>
+</strong>
+<code>
+</code>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<strong>
+</strong>
+<ul dir="auto">
+<li>
+</li>
+<li>
+</li>
+<li>
+<strong>
+</strong>
+<code>
+</code>
+</li>
+<li>
+<strong>
+</strong>
+<code>
+</code>
+<strong>
+</strong>
+</li>
+<li>
+<strong>
+</strong>
+<code>
+</code>
+</li>
+</ul>
+</li>
+</ul>
+<p dir="auto">
+<strong>
+</strong>
+</p>
+<ul dir="auto">
+<li>
+<strong>
+</strong>
+<code>
+</code>
+<code>
+</code>
+<code>
+</code>
+</li>
+</ul>
+<div class="ps-content-wrapper-v0">
+<details>
+</details>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="PanelResizeHandle_theme__94dM_ PanelResizeHandle_container__d2aza PanelResizeHandle_containerVertical__LGIdF" role="separator" tabindex="0" data-panel-group-direction="horizontal" data-panel-group-id=":r9l:" data-resize-handle="" data-resize-handle-state="inactive" data-panel-resize-handle-enabled="true" data-panel-resize-handle-id=":r9n:" style="touch-action: none; user-select: none;" aria-controls=":r9m:" aria-valuemax="50" aria-valuemin="0" aria-valuenow="30">
+<div class="PanelResizeHandle_handle__Yk8bb">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.5 19-7-7 7-7">
+</path>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.5 5 7 7-7 7">
+</path>
+</svg>
+</div>
+</div>
+<div class="" data-panel="" data-panel-group-id=":r9l:" data-panel-id=":r9o:" data-panel-size="70.0" style="flex: 70 1 0px; overflow: hidden;">
+<div class="Coding_container__Es3C4">
+<div class="" id="qaas-panel-group-editor" data-panel-group="" data-panel-group-direction="vertical" data-panel-group-id="qaas-panel-group-editor" style="display: flex; flex-direction: column; height: 100%; overflow: hidden; width: 100%;">
+<div class="" data-panel="" data-panel-group-id="qaas-panel-group-editor" data-panel-id=":r9q:" data-panel-size="95.7" style="flex: 95.7 1 0px; overflow: hidden;">
+<div class="Editor_container__QXm2e">
+<div class="hr-monaco-editor-with-statusbar">
+<div class="hr-monaco-editor " data-hr-monaco-theme="dark-hrds-retheme">
+<div class="editor-toolbar">
+<div class="toolbar-left">
+<label class="select-language__label" id="select-language-label" for="select-language-input" aria-label="Select your coding language">
+</label>
+<div class="select-language select-language-dropdown css-b62m3t-container" id="editor-language-select">
+<span id="react-select-17-live-region" class="css-7pg0cj-a11yText">
+</span>
+<span aria-live="polite" aria-atomic="false" aria-relevant="additions text" class="css-7pg0cj-a11yText">
+</span>
+<div data-hr-select-control-container="">
+<div class="c-PJLV hr-select-control css-1gjr35u-control">
+<div class="css-v020d8">
+<div class="css-3d4y2u-singleValue">
+<div class="c-YCcUu">
+</div>
+</div>
+<div class="css-1mprit5" data-value="">
+<input class="" autocapitalize="none" autocomplete="off" autocorrect="off" id="select-language-input" spellcheck="false" tabindex="0" type="text" aria-autocomplete="list" aria-expanded="false" aria-haspopup="listbox" aria-labelledby="select-language-label" role="combobox" aria-describedby="" value="" style="color: inherit; background: 0px center; opacity: 0; width: 100%; grid-area: 1 / 2; font: inherit; min-width: 2px; border: 0px; margin: 0px; outline: 0px; padding: 0px;">
+</div>
+</div>
+<div class="css-1wy0on6">
+<span class="css-1uei4ir-indicatorSeparator">
+</span>
+<div class="css-1gp4lpm-indicatorContainer" aria-hidden="true">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="c-lhrvpy hr-m-r-0.5" data-hr-select-icon-adornment="">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m19 8.5-7 7-7-7">
+</path>
+</svg>
+</div>
+</div>
+</div>
+</div>
+<div aria-live="assertive" aria-relevant="additions" data-hr-select-hint="error">
+</div>
+<div class="hr-screen-reader-only" aria-live="polite" aria-atomic="false" aria-relevant="additions text">
+</div>
+</div>
+<div class="execution-env">
+<button aria-label="Click to view execution environment" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-dEqbat-size-small c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-doQEIT-cv c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.25 execution-env-info-button execution-env-info-button--icon-button" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="execution-env-info__icon" aria-hidden="true">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 12a9 9 0 1 0 18 0 9 9 0 0 0-18 0ZM12.006 15.693v-4.3M12 8.355v-.063" fill="none">
+</path>
+</svg>
+</button>
+</div>
+</div>
+<div class="toolbar-right">
+<div class="toolbar-custom-items">
+<button aria-label="Version History" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-dEqbat-size-small c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-doQEIT-cv c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.25 hrdsOverride_iconButtonGhost__F4Hrc" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="M20.573 12a8.67 8.67 0 1 1-1.442-4.788" fill="none">
+</path>
+<path stroke="currentColor" stroke-linecap="round" stroke-width="1.5" d="m17.966 13.795 2.346-2.099 2.316 2.099M11.82 8.285v3.888l2.377 1.548" fill="none">
+</path>
+</svg>
+</button>
+<button aria-label="Expand Editor" type="button" class="c-cUYkx c-cUYkx-gFvbOT-variant-ghost c-cUYkx-dEqbat-size-small c-cUYkx-emTwVZ-isIconButton-true c-cUYkx-doQEIT-cv c-cUYkx-eSVaTC-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.25 hrdsOverride_iconButtonGhost__F4Hrc" data-hr-focus-item="private">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 24" class="hr-icon">
+<path stroke="currentColor" d="M5.25 18.25v.5H11a.25.25 0 1 1 0 .5H5a.25.25 0 0 1-.25-.25v-6a.25.25 0 1 1 .5 0v5.25ZM18.75 5.75v-.5H13a.25.25 0 1 1 0-.5h6a.25.25 0 0 1 .25.25v6a.25.25 0 1 1-.5 0V5.75Z" fill="none">
+</path>
+</svg>
+</button>
+</div>
+</div>
+</div>
+<div class="hr-monaco-editor-parent ">
+<div class="hr-monaco-base-editor" style="height: 906.016px; --vscode-editorCodeLens-lineHeight: 16px; --vscode-editorCodeLens-fontSize: 12px; --vscode-editorCodeLens-fontFeatureSettings: &quot;liga&quot; off, &quot;calt&quot; off;" data-keybinding-context="1" data-mode-id="python">
+<div class="monaco-editor no-user-select standalone  showUnused showDeprecated vs-dark" role="code" data-uri="file:///lsp-d0539bf0-88d4-11f0-9e8f-7dfd616cc07c/file.py" style="width: 1261px; height: 906px;">
+<div data-mprt="3" class="overflow-guard" style="width: 1261px; height: 906px;">
+<div class="margin" role="presentation" aria-hidden="true" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; height: 1463px; width: 87px;">
+<div class="glyph-margin" style="left: 0px; width: 19px; height: 1463px;">
+</div>
+<div class="margin-view-zones" role="presentation" aria-hidden="true" style="position: absolute;">
+</div>
+<div class="margin-view-overlays" role="presentation" aria-hidden="true" style="position: absolute; font-family: monospace, &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace; font-weight: normal; font-size: 14px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; font-variation-settings: normal; line-height: 19px; letter-spacing: 0px; width: 87px; height: 1463px;">
+<div style="top:0px;height:19px;">
+<div class="current-line" style="width:87px">
+</div>
+<div class="cldr codicon codicon-folding-collapsed" title="Click to expand the range." style="left:61px;width:26px;">
+</div>
+<div class="line-numbers lh-odd active-line-number" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:19px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:38px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:57px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:76px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:95px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:114px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:133px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:152px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:171px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:190px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:209px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:228px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:247px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:266px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:285px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:304px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:323px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:342px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:361px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:380px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:399px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:418px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:437px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:456px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:475px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:494px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:513px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:532px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:551px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:570px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:589px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:608px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:627px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:646px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:665px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:684px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:703px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:722px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:741px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:760px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:779px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:798px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:817px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:836px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:855px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:874px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+<div style="top:893px;height:19px;">
+<div class="line-numbers lh-odd" style="left:19px;width:42px;">
+</div>
+</div>
+</div>
+<div class="glyph-margin-widgets" style="position: absolute; top: 0px;">
+</div>
+</div>
+<div class="monaco-scrollable-element editor-scrollable vs-dark" role="presentation" data-mprt="6" style="position: absolute; overflow: hidden; left: 87px; width: 1174px; height: 906px;">
+<div class="lines-content monaco-editor-background" style="position: absolute; overflow: hidden; width: 1.67772e+07px; height: 1.67772e+07px; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; left: 0px;">
+<div class="view-overlays" role="presentation" aria-hidden="true" style="position: absolute; font-family: monospace, &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace; font-weight: normal; font-size: 14px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; font-variation-settings: normal; line-height: 19px; letter-spacing: 0px; height: 0px; width: 1174px;">
+<div style="top:0px;height:19px;">
+<div class="cslr selected-text top-left-radius top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:352px;">
+</div>
+<div class="cdr folded-background" style="left:0;width:100%;">
+</div>
+<div class="cdr read-only" style="left:0;width:100%;">
+</div>
+<div class="cdr squiggly-warning" style="left:0px;width:344px;">
+</div>
+<svg style="bottom:0;position:absolute;width:319px;height:19px" viewBox="0 0 319 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="96.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="155.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="206.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="264.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="315.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:19px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:8px;">
+</div>
+</div>
+<div style="top:38px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:151px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:151px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:151px;">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:57px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:562px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:470px;height:19px" viewBox="0 0 470 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="96.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="189.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="239.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="323.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="348.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="382.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="466.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:76px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:226px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:226px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:226px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:176px;height:19px" viewBox="0 0 176 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:95px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:243px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:67px;height:19px" viewBox="0 0 67 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:114px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:133px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:277px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:277px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:277px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:176px;height:19px" viewBox="0 0 176 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:152px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:361px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:184px;height:19px" viewBox="0 0 184 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="164.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="180.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:171px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:190px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:193px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:92px;height:19px" viewBox="0 0 92 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:209px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:176px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:176px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:176px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:151px;height:19px" viewBox="0 0 151 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="130.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:228px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:310px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:310px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:310px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:109px;height:19px" viewBox="0 0 109 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="80.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="105.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:247px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:411px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:201px;height:19px" viewBox="0 0 201 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="105.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="122.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="197.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:266px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:294px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:294px;width:10px;">
+</div>
+<div class="cslr selected-text bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:294px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:260px;height:19px" viewBox="0 0 260 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="256.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:285px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:304px;height:19px;">
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:310px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:260px;height:19px" viewBox="0 0 260 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="256.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:323px;height:19px;">
+<div class="cslr selected-text bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:310px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:134px;height:19px" viewBox="0 0 134 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="113.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="130.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:342px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:361px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:361px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:310px;height:19px" viewBox="0 0 310 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="222.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="256.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="306.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:380px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:126px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:126px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:126px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:100px;height:19px" viewBox="0 0 100 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="80.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="96.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:399px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:260px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:260px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:260px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:109px;height:19px" viewBox="0 0 109 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="80.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="105.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:418px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:487px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:277px;height:19px" viewBox="0 0 277 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="138.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="180.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="197.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="273.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:437px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:252px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:252px;width:10px;">
+</div>
+<div class="cslr selected-text bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:252px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:210px;height:19px" viewBox="0 0 210 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="189.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="206.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:456px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:475px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:361px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:361px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:361px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:352px;height:19px" viewBox="0 0 352 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="180.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="222.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="264.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="290.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="315.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="340.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="348.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:494px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:487px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:268px;height:19px" viewBox="0 0 268 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="130.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="264.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:513px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:462px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:462px;width:10px;">
+</div>
+<div class="cslr selected-text bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:462px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:378px;height:19px" viewBox="0 0 378 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="105.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="130.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="147.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="298.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="332.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="348.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="374.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:532px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:551px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:151px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:151px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:151px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:92px;height:19px" viewBox="0 0 92 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:570px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:285px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:109px;height:19px" viewBox="0 0 109 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="105.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:589px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:608px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:142px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:142px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:142px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:92px;height:19px" viewBox="0 0 92 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:627px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:277px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:100px;height:19px" viewBox="0 0 100 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="80.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="96.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:646px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:665px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:445px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:394px;height:19px" viewBox="0 0 394 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="88.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="197.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="256.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="323.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="390.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:684px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:8px;">
+</div>
+</div>
+<div style="top:703px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:8px;">
+</div>
+</div>
+<div style="top:722px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:8px;">
+</div>
+</div>
+<div style="top:741px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:8px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:8px;">
+</div>
+</div>
+<div style="top:760px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:495px;">
+</div>
+<svg style="bottom:0;position:absolute;width:462px;height:19px" viewBox="0 0 462 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="264.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="323.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="390.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="458.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:779px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:67px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:67px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:67px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:798px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:680px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:587px;height:19px" viewBox="0 0 587 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="80.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="113.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="222.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="298.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="407.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="474.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="525.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="583.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:817px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius bottom-left-radius" style="top:0px;bottom:0px;left:42px;width:10px;">
+</div>
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:0px;width:42px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:836px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:84px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background bottom-left-radius" style="top:0px;bottom:0px;left:84px;width:10px;">
+</div>
+<div class="cslr selected-text top-right-radius" style="top:0px;bottom:0px;left:0px;width:84px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:33px;height:19px" viewBox="0 0 33 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:855px;height:19px;">
+<div class="cslr selected-text top-right-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:646px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:596px;height:19px" viewBox="0 0 596 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="214.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="239.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="298.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="374.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="441.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="483.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="592.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:874px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:470px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:470px;width:10px;">
+</div>
+<div class="cslr selected-text bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:470px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:420px;height:19px" viewBox="0 0 420 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="122.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="164.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="248.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="298.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="332.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="416.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+<div style="top:893px;height:19px;">
+<div class="cslr selected-text" style="top:0px;bottom:0px;left:436px;width:10px;">
+</div>
+<div class="cslr monaco-editor-background top-left-radius" style="top:0px;bottom:0px;left:436px;width:10px;">
+</div>
+<div class="cslr selected-text bottom-left-radius bottom-right-radius" style="top:0px;bottom:0px;left:0px;width:436px;">
+</div>
+<div class="core-guide core-guide-indent lvl-0 vertical" style="left:0px;width:8.3984375px">
+</div>
+<div class="core-guide core-guide-indent lvl-1 vertical" style="left:33.59375px;width:8.3984375px">
+</div>
+<svg style="bottom:0;position:absolute;width:386px;height:19px" viewBox="0 0 386 19" xmlns="http://www.w3.org/2000/svg" fill="rgba(227, 228, 226, 0.16)">
+<circle cx="4.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="12.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="21.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="29.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="38.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="46.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="54.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="63.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="130.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="172.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="256.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="315.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="348.20" cy="9.50" r="1.20">
+</circle>
+<circle cx="382.20" cy="9.50" r="1.20">
+</circle>
+</svg>
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="view-rulers">
+</div>
+<div class="view-zones" role="presentation" aria-hidden="true" style="position: absolute;">
+</div>
+<div class="view-lines monaco-mouse-cursor-text" role="presentation" aria-hidden="true" data-mprt="8" style="position: absolute; font-family: monospace, &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace; font-weight: normal; font-size: 14px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; font-variation-settings: normal; line-height: 19px; letter-spacing: 0px; width: 1174px; height: 1463px;">
+<div style="top:0px;height:19px;" class="view-line">
+<span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="inline-folded">
+</span>
+</span>
+</div>
+<div style="top:19px;height:19px;" class="view-line">
+<span>
+<span>
+</span>
+</span>
+</div>
+<div style="top:38px;height:19px;" class="view-line">
+<span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10">
+</span>
+</span>
+</div>
+<div style="top:57px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk24">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:76px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:95px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:114px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:133px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:152px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:171px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:190px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:209px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:228px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10">
+</span>
+</span>
+</div>
+<div style="top:247px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:266px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:285px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:304px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:323px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:342px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:361px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:380px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:399px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10">
+</span>
+</span>
+</div>
+<div style="top:418px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:437px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+</span>
+</div>
+<div style="top:456px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:475px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:494px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk10 bracket-highlighting-2">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:513px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk6">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:532px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:551px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:570px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:589px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:608px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk8 mtki">
+</span>
+</span>
+</div>
+<div style="top:627px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-1">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+</span>
+</div>
+<div style="top:646px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+</span>
+</div>
+<div style="top:665px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+</span>
+</div>
+<div style="top:684px;height:19px;" class="view-line">
+<span>
+<span>
+</span>
+</span>
+</div>
+<div style="top:703px;height:19px;" class="view-line">
+<span>
+<span>
+</span>
+</span>
+</div>
+<div style="top:722px;height:19px;" class="view-line">
+<span>
+<span>
+</span>
+</span>
+</div>
+<div style="top:741px;height:19px;" class="view-line">
+<span>
+<span>
+</span>
+</span>
+</div>
+<div style="top:760px;height:19px;" class="view-line">
+<span>
+<span class="mtk14 mtkb">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10">
+</span>
+<span class="mtk1">
+</span>
+<span class="mtk12">
+</span>
+<span class="mtk10 bracket-highlighting-0">
+</span>
+<span class="mtk10">
+</span>
+</span>
+</div>
+<div style="top:779px;height:19px;" class="view-line">
+<span>
+<span class="mtk1">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:798px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:817px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:836px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:855px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:874px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+<div style="top:893px;height:19px;" class="view-line">
+<span>
+<span class="mtk24">
+</span>
+<span class="mtk24">
+</span>
+</span>
+</div>
+</div>
+<div data-mprt="1" class="contentWidgets" style="position: absolute; top: 0px;">
+<div class="lightBulbWidget" role="listbox" widgetid="LightBulbWidget" style="position: absolute; display: none; visibility: hidden; max-width: 1174px;">
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="cursors-layer has-selection cursor-line-style cursor-solid">
+<div class="cursor  monaco-mouse-cursor-text " style="height: 19px; top: 0px; left: 0px; font-family: monospace, &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace; font-weight: normal; font-size: 14px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; font-variation-settings: normal; line-height: 19px; letter-spacing: 0px; display: block; visibility: hidden; padding-left: 0px; width: 2px;">
+</div>
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute; width: 1160px; height: 12px; left: 0px; bottom: 0px;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; height: 12px; transform: translate3d(0px, 0px, 0px); contain: strict; width: 1160px;">
+</div>
+</div>
+<canvas class="decorationsOverviewRuler" aria-hidden="true" width="14" height="906" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; top: 0px; right: 0px; width: 14px; height: 906px; display: block;">
+</canvas>
+<div role="presentation" aria-hidden="true" class="visible scrollbar vertical" style="position: absolute; width: 14px; height: 906px; right: 0px; top: 0px;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; width: 14px; transform: translate3d(0px, 0px, 0px); contain: strict; height: 561px;">
+</div>
+</div>
+</div>
+<div role="presentation" aria-hidden="true" style="width: 1261px;" class="">
+</div>
+<textarea data-mprt="7" class="inputarea monaco-mouse-cursor-text" wrap="on" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false" aria-label="Editor content;Press Alt+F1 for Accessibility Options." aria-required="false" tabindex="0" role="textbox" aria-roledescription="editor" aria-multiline="true" aria-autocomplete="both" style="tab-size: 33.5938px; font-family: monospace, &quot;Droid Sans Mono&quot;, &quot;monospace&quot;, monospace; font-weight: normal; font-size: 14px; font-feature-settings: &quot;liga&quot; 0, &quot;calt&quot; 0; font-variation-settings: normal; line-height: 19px; letter-spacing: 0px; top: 0px; left: 87px; width: 1151px; height: 1px;">
+</textarea>
+<div style="position: absolute; top: 0px; left: 0px; width: 0px; height: 0px;" class="monaco-editor-background textAreaCover margin">
+</div>
+<div data-mprt="4" class="overlayWidgets" style="width: 1261px;">
+<div class="sticky-widget" widgetid="editor.contrib.stickyScrollWidget" style="width: 1247px; position: absolute; right: 50%; top: 0px; display: none; height: 19px; margin-left: 0px;">
+<div class="sticky-widget-line-numbers" role="none" style="width: 87px; --vscode-editorStickyScroll-foldingOpacityTransition: opacity 0.5s; height: 19px;">
+</div>
+<div class="sticky-widget-lines-scrollable" style="--vscode-editorStickyScroll-scrollableWidth: 1160px; height: 19px;">
+<div class="sticky-widget-lines" role="list" style="left: 0px;">
+</div>
+</div>
+</div>
+<div class="monaco-hover hidden" tabindex="0" role="tooltip" widgetid="editor.contrib.modesGlyphHoverWidget" style="position: absolute;">
+<div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden;">
+<div class="monaco-hover-content" style="overflow: hidden;">
+</div>
+<div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;">
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="invisible scrollbar vertical" style="position: absolute;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; width: 10px; transform: translate3d(0px, 0px, 0px); contain: strict;">
+</div>
+</div>
+<div class="shadow">
+</div>
+<div class="shadow">
+</div>
+<div class="shadow">
+</div>
+</div>
+</div>
+</div>
+<div data-mprt="9" class="minimap slider-mouseover" role="presentation" aria-hidden="true" style="position: absolute; left: 0px; width: 0px; height: 906px;">
+<div class="minimap-shadow-hidden" style="height: 906px;">
+</div>
+<canvas width="0" height="906" style="position: absolute; left: 0px; width: 0px; height: 906px;">
+</canvas>
+<canvas class="minimap-decorations-layer" width="0" height="906" style="position: absolute; left: 0px; width: 0px; height: 906px;">
+</canvas>
+<div class="minimap-slider" style="position: absolute; transform: translate3d(0px, 0px, 0px); contain: strict; width: 0px;">
+<div class="minimap-slider-horizontal" style="position: absolute; width: 0px; height: 0px;">
+</div>
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="blockDecorations-container">
+</div>
+</div>
+<div data-mprt="2" class="overflowingContentWidgets">
+<div widgetid="editor.contrib.resizableContentHoverWidget" style="position: absolute; height: 50px; width: 758px; z-index: 50; display: none; visibility: hidden; max-width: 1920px; top: 58px; left: 179px;">
+<div class="monaco-sash vertical" style="left: 756px;">
+</div>
+<div class="monaco-sash vertical disabled" style="left: -2px;">
+</div>
+<div class="monaco-sash orthogonal-edge-north horizontal" style="top: -2px;">
+<div class="orthogonal-drag-handle end">
+</div>
+</div>
+<div class="monaco-sash orthogonal-edge-south horizontal disabled" style="top: 48px;">
+<div class="orthogonal-drag-handle end">
+</div>
+</div>
+<div class="monaco-hover hidden" tabindex="0" role="tooltip" style="max-width: 832.26px; max-height: 250px; --vscode-hover-maxWidth: 832.26px; width: 758px; height: 50px;">
+<div class="monaco-scrollable-element " role="presentation" style="position: relative; overflow: hidden;">
+<div class="monaco-hover-content" style="overflow: hidden; font-size: 14px; line-height: 1.35714; max-width: 832.26px; max-height: 250px; width: 758px; height: 50px;">
+<div class="hover-row" tabindex="0">
+<div class="hover-row-contents">
+<div class="markdown-hover">
+<div class="hover-contents">
+<div class="rendered-markdown">
+<p>
+</p>
+<p>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="invisible scrollbar horizontal" style="position: absolute; width: 748px; height: 10px; left: 0px; bottom: 0px;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; height: 10px; transform: translate3d(0px, 0px, 0px); contain: strict; width: 748px;">
+</div>
+</div>
+<div role="presentation" aria-hidden="true" class="invisible scrollbar vertical" style="position: absolute; width: 10px; height: 50px; right: 0px; top: 0px;">
+<div class="slider" style="position: absolute; top: 0px; left: 0px; width: 10px; transform: translate3d(0px, 0px, 0px); contain: strict; height: 50px;">
+</div>
+</div>
+<div class="shadow">
+</div>
+<div class="shadow">
+</div>
+<div class="shadow">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div data-mprt="5" class="overflowingOverlayWidgets">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hr-monaco-editor-statusbar">
+<div style="display: flex;">
+</div>
+<div class="statusbar-content-right">
+<div class="statusbar-content-right-item statusbar-position">
+</div>
+<div tabindex="0" role="button" data-hr-focus-item="" class="c-gsmDXe statusbar-content-right-item statusbar-autocomplete-status">
+<span class="statusbar-autocomplete-status__indicator statusbar-autocomplete-status__indicator--ready">
+</span>
+<span class="statusbar-autocomplete-status__text">
+</span>
+</div>
+<div tabindex="0" role="button" data-hr-focus-item="" class="c-gsmDXe statusbar-content-right-item statusbar-tab-space">
+</div>
+<div tabindex="0" role="button" data-hr-focus-item="" class="c-gsmDXe statusbar-content-right-item statusbar-editor-mode">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="" role="separator" tabindex="0" data-panel-group-direction="vertical" data-panel-group-id="qaas-panel-group-editor" data-resize-handle="" data-resize-handle-state="inactive" data-panel-resize-handle-enabled="false" data-panel-resize-handle-id=":r9r:" style="touch-action: none; user-select: none;" aria-controls=":r9q:" aria-valuemax="96" aria-valuemin="30" aria-valuenow="96">
+<div class="PanelResizeHandle_handle__Yk8bb">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m15.5 19-7-7 7-7">
+</path>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m8.5 5 7 7-7 7">
+</path>
+</svg>
+</div>
+</div>
+<div class="SecondaryPanel_collapsibleEffect__Rtrd_" id="qaas-panel-item-test-cases" data-panel="" data-panel-collapsible="true" data-panel-group-id="qaas-panel-group-editor" data-panel-id="qaas-panel-item-test-cases" data-panel-size="4.3" style="flex: 4.3 1 0px; overflow: hidden;">
+<div class="TestCasesPanel_container__oNHaK TestCasesPanel_isCollapsed__ROT_O" data-orientation="horizontal">
+<div id="qaas-test-cases-panel-header" class="TestCasesPanel_header__oUvXi">
+<div class="hr-flex hr-align-center hr-gap-0.25">
+<span class="hr-flex hr-align-center hr-justify-center TestCasesPanel_headerToggleIcon__sdzlZ">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" class="hr-icon">
+<path fill="none" fill-rule="evenodd" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m5 15.5 7-7 7 7">
+</path>
+</svg>
+</span>
+<span class="hr-title-xsm TestCasesPanel_headerTitle___O56L">
+</span>
+</div>
+<div class="hr-flex hr-align-center hr-gap-0.5 TestCasesPanel_headerActions__Q3Ftf">
+<button type="button" class="c-cUYkx c-cUYkx-cddMLR-variant-secondary c-cUYkx-dEqbat-size-small c-cUYkx-fbawCf-cv hr-inline-flex hr-justify-center hr-align-center hr-p-y-0.25 TestCasesPanel_triggerButton__M9_Fj TestCasesPanel_runButton___YHLW" data-hr-focus-item="private">
+<div class="c-idwzAS c-idwzAS-dLeuRP-gutter-right c-idwzAS-gmooAc-size-small hr-flex">
+<svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" fill="none" viewBox="0 0 24 25" class="hr-icon">
+<path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9.184 20.015c2.792-1.124 6.466-3.483 8.496-5.322 1.852-1.626 1.852-3.254 0-4.882-2.03-1.837-5.704-4.196-8.496-5.32-2.272-.738-3.58.23-3.992 2.789a43.105 43.105 0 0 0-.258 4.972c-.007 1.71.078 3.373.258 4.974.398 2.567 1.722 3.51 3.992 2.79Z" clip-rule="evenodd" fill="none">
+</path>
+</svg>
+</div>
+<span class="TestCasesPanel_triggerButtonText___FosC">
+</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script id="__NEXT_DATA__" type="application/json">
+</script>
+<div id="toast-portal-container" class="cs-toast-container">
+<div id="toast-portal-container-item" class="cs-toast-container-item">
+<div class="c-cQqvPD">
+</div>
+</div>
+</div>
+<next-route-announcer>
+<p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;">
+</p>
+</next-route-announcer>
+<div class="offline-ui offline-ui-up">
+<div class="offline-ui-content">
+</div>
+<a href="https://www.hackerrank.com/test-v2/gac76oklml/questions/dffdig2lfej" class="offline-ui-retry">
+</a>
+</div>
+<script src="./HackerRank Question_files/1193-e9d3252182996315.js">
+</script>
+<script src="./HackerRank Question_files/4105-fe64ec8a43b36eaa.js">
+</script>
+<script src="./HackerRank Question_files/questions-76994d51b69b05c4.js">
+</script>
+<script src="./HackerRank Question_files/6634-fd7273f9bd326f62.js">
+</script>
+<script src="./HackerRank Question_files/[qid]-370c4d255d9ac621.js">
+</script>
+<div class="context-view" aria-hidden="true" style="display: none;">
+</div>
+<div class="monaco-aria-container">
+<div class="monaco-alert" role="alert" aria-atomic="true" style="visibility: visible;">
+</div>
+<div class="monaco-alert" role="alert" aria-atomic="true">
+</div>
+<div class="monaco-status" aria-live="polite" aria-atomic="true">
+</div>
+<div class="monaco-status" aria-live="polite" aria-atomic="true">
+</div>
+</div>
+<div class="context-view" aria-hidden="true" style="display: none;">
+</div>
+</body>
+</html>
